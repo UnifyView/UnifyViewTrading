@@ -1,0 +1,9 @@
+username: XH08595
+user_pin: '1021'
+totpkey: JUPCG7RL74EURO7U425E3ZK5XKF5RRER
+apikey: QUA21XFQOH
+apisecret: CZUNUY0BER
+apptype: '100'
+loginurl: https://trade.fyers.in/api-login/redirect-uri/index.html
+log_path: Logs/Fyers
+token_file: Config/fyers_himanshu
